@@ -12,3 +12,6 @@
 ## note
 ### 值得重复做的题目
 * 898-easy-includes
+
+### 生疏题目
+* 12-medium-chainable-options
